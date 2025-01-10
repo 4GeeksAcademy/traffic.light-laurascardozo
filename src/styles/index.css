@@ -22,17 +22,25 @@
     margin-bottom: 5px;
 }
 
-.light.red.selected {
+.light.green {
+    background-color: #4bd236;
+}
+
+.light.red {
     background-color: red;
+}
+.light.yellow{
+    background-color: yellow;
+}
+
+.light.red.selected {
     box-shadow: 0 0 5px 5px #ff0404;
 }
 
 .light.yellow.selected {
-    background-color: yellow;
     box-shadow: 0 0 5px 5px #fff231;
 }
 
 .light.green.selected {
-    background-color: #4bd236;
     box-shadow: 0 0 5px 5px #2dc937;
 }

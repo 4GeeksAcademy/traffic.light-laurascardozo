@@ -24,7 +24,7 @@ const Home = () => {
 						"light green " + (color == "green" ? "selected" : "")
 					}
 					onClick={() => setColor("green")}></div>
-
+t
 
 			</div>
 		</div>
